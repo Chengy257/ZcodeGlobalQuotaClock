@@ -20,6 +20,7 @@ Implementation reviews should be written under `docs/reviews/`.
 First expected review:
 
 - `docs/reviews/V0_1_STAGE_0_1_REVIEW.md`
+- [V0_1_STAGE_0_1_REVIEW_TEMPLATE.md](reviews/V0_1_STAGE_0_1_REVIEW_TEMPLATE.md) — required evidence/checklist template for the Stage 0/1 handoff
 
 ## Historical source
 
