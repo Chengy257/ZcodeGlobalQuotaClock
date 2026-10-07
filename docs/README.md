@@ -12,6 +12,7 @@
 
 - [V0_1_PROJECT_PLAN.md](roadmap/V0_1_PROJECT_PLAN.md) — product scope, stages, release definition
 - [V0_1_IMPLEMENTATION_PLAN.md](roadmap/V0_1_IMPLEMENTATION_PLAN.md) — implementation-grade Stage 0–3 handoff
+- [GLOBAL_QUOTA_CLOCK_V0_1_MINIMAL_IMPLEMENTATION_PLAN.md](roadmap/GLOBAL_QUOTA_CLOCK_V0_1_MINIMAL_IMPLEMENTATION_PLAN.md) — parent glm-conductor plan; superseded as implementation authority by V0_1_IMPLEMENTATION_PLAN.md at the G1 handoff check (2026-10-03), retained as the five-invariant cross-check record
 
 ## Review outputs
 
